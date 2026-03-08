@@ -22,8 +22,11 @@ OBJECTIVES:
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 BLOCK DIAGRAM : 
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/4914a0c2-fe41-40a8-b6ac-e097b227e4f3.jpg?raw=true)
 
 OUTPUT:
+
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/Screenshot%202026-03-08%20230950.jpg?raw=true)
 
 LEARNINGS:
 
