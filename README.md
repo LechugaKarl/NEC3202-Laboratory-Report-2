@@ -9,7 +9,7 @@ INTRODUCTION:
 In analog communication, Frequency Modulation (FM) represents a significant advancement over Amplitude Modulation (AM) schemes. While AM, DSBSC, and SSB systems are highly efficient in terms of bandwidth, they are inherently vulnerable to Atmospheric Noise and Electromagnetic Interference (EMI), which primarily manifest as amplitude fluctuations.
 FM overcomes this by encoding the message signal into the instantaneous frequency of a carrier wave. Since the information is stored in the frequency shifts rather than the peak-to-peak voltage, an FM receiver can use "limiters" to clip off noise-induced amplitude spikes without losing the integrity of the original message. This experiment utilizes a Voltage-Controlled Oscillator (VCO) to demonstrate this fundamental shift in modulation theory.
 
-[assets/exp9.jpg](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/exp9.jpg?raw=true)
+[[assets/exp9.jpg](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/exp9.jpg?raw=true)](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/86d5f134eed58b7d0d35ad8f3c48907bdf48ebbd/assets/exp9.jpg)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
