@@ -88,7 +88,7 @@ INTRODUCTION:
 
 The shift from analog to digital communication is driven by the need for data integrity and noise resistance. However, because the world is inherently analog, we must first slice continuous signals into discrete pieces through a process called sampling. This experiment explores the first step of the Analog-to-Digital Conversion (ADC) process. By taking periodic "snapshots" of a signal’s voltage, we can represent a complex waveform as a series of pulses. The challenge for engineers is choosing a sampling method that accurately captures the message without losing the details necessary for high-fidelity reconstruction at the receiver.
 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/11.jpg?raw=true)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -100,7 +100,7 @@ OBJECTIVES:
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 BLOCK DIAGRAM : 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/11a.jpg?raw=true)
 
 OUTPUT:
 
@@ -127,7 +127,7 @@ INTRODUCTION:
 
 The transformation from analog waveforms to digital strings occurs during encoding. This stage takes samples of a signal and assigns them numerical values. It is the core of modern data systems. By mapping voltage levels to binary words, we create a robust message. This allows data to travel over long distances without losing its original meaning.
 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/12.jpg?raw=true)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -140,7 +140,7 @@ OBJECTIVES:
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 BLOCK DIAGRAM : 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/12a.jpg?raw=true)
 
 OUTPUT:
 
@@ -163,9 +163,6 @@ The experiment confirms that encoding is the vital bridge for digital data. It p
 INTRODUCTION:
 
 Decoding is the mirror of encoding. It takes a string of bits and builds back the analog shape. This process must be perfectly timed. If the receiver misses a single bit, the message is ruined. This lab focuses on how a decoder reads binary words and outputs the correct voltage levels. It is the final step in getting a message back to human ears.
-
-![Image Alt]()
-
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 OBJECTIVES:
@@ -177,7 +174,7 @@ OBJECTIVES:
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 BLOCK DIAGRAM : 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/13.jpg?raw=true)
 
 OUTPUT:
 
@@ -201,7 +198,7 @@ INTRODUCTION:
 
 Real channels have limits. Every wire or fiber optic cable acts as a filter. They only let certain frequencies pass. This is known as bandwidth. High-speed digital signals are made of many frequencies. When a channel is too narrow, these frequencies are lost. This causes the signal to smear and lose its shape. This lab investigates how to fix these damaged pulses.
 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/14.jpg?raw=true)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -213,7 +210,7 @@ OBJECTIVES:
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 BLOCK DIAGRAM : 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/14a.jpg?raw=true)
 
 OUTPUT:
 
