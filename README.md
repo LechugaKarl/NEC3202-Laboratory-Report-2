@@ -216,7 +216,7 @@ BLOCK DIAGRAM :
 
 OUTPUT:
 
-![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/out14.mp4)
+[![Watch the video](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/out14.mp4)
 
 LEARNINGS:
 
