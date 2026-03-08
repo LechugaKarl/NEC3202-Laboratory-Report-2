@@ -104,7 +104,8 @@ BLOCK DIAGRAM :
 
 OUTPUT:
 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/out11.jpg?raw=true)
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/out11a.jpg?raw=true)
 
 LEARNINGS:
 
@@ -144,7 +145,8 @@ BLOCK DIAGRAM :
 
 OUTPUT:
 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/out12a.jpg?raw=true)
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/out12b.jpg?raw=true)
 
 LEARNINGS:
 
@@ -178,7 +180,7 @@ BLOCK DIAGRAM :
 
 OUTPUT:
 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/out13.jpg?raw=true)
 
 LEARNINGS:
 
@@ -214,7 +216,7 @@ BLOCK DIAGRAM :
 
 OUTPUT:
 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/out14.mp4)
 
 LEARNINGS:
 
