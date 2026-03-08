@@ -21,6 +21,10 @@ OBJECTIVES:
 - To visualize Spectral Complexity: Observe how even a simple sinusoidal input produces a complex FM signal in the time domain, hinting at the existence of multiple sidebands (Bessel functions).
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+BLOCK DIAGRAM : 
+
+OUTPUT:
+
 LEARNINGS:
 
 One of the most immediate takeaways from this lab is seeing how the FM signal maintains a perfectly flat envelope. In AM, you can see the message "riding" on top of the carrier, but in FM, the signal looks like a constant-strength wave that just happens to get squashed or stretched. This is the "secret sauce" of FM’s noise immunity; since the demodulator is only looking for frequency shifts, we can technically clip off any noise-induced voltage spikes without losing a single bit of the original audio.
