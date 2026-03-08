@@ -50,7 +50,7 @@ INTRODUCTION:
 While FM provides excellent immunity to amplitude-based noise, it introduces a challenge at the receiving end: the information is no longer represented by voltage levels, but by the "timing" of the carrier oscillations. To recover the message, we need a system that acts as a frequency-to-voltage converter.
 The Zero-Crossing Detector (ZCD) is a classic, elegant solution for this. By converting the received FM signal into a stream of constant-width pulses, we can use the density of these pulses to recreate the original signal. This experiment explores how to implement this "square-to-pulse" logic using the Emona Telecoms-Trainer 101, ultimately bridging the gap between frequency-modulated carriers and the baseband message we started with.
 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/06b9a1e7-c0d9-44f2-8aad-cb418cfcb01a.jpg?raw=true)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -63,11 +63,11 @@ OBJECTIVES:
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 BLOCK DIAGRAM : 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/7b06c4a4-26c1-40f3-8d06-e254ef271763.jpg?raw=true)
 
 OUTPUT:
 
-![Image Alt]()
+![Image Alt](https://github.com/LechugaKarl/NEC3202-Laboratory-Report-2/blob/main/assets/97d6f471-b6d9-4364-a29b-bcc07443aada.jpg?raw=true)
 
 LEARNINGS:
 
